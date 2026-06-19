@@ -95,4 +95,4 @@ Siz yuborgan terminal skrinshotiga ko'ra:
    > `Server running on port 3000`
 3. Endi brauzeringizda **`http://localhost:3000`** manzilini ochib kelajak akademiyasini sinab ko'rishingiz va Lola bilan jonli suhbat qurishingiz mumkin!
 
-**Future Academy doimo siz bilan! O'quv darslarida muvaffaqiyatlar tilaymiz!** 🚀
+**Future Academy doimo siz bilan! O'quv darslarida muvaffaqiyatlar tilaymiz!** 🚀 
