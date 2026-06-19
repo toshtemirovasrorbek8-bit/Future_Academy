@@ -1,0 +1,6 @@
+{
+  "name": "Future Academy",
+  "description": "Kelajak ta'limi platformasi va innovatsion o'quv markazi. Sun'iy intellekt xizmati orqali jonli muloqot va maslahatlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
